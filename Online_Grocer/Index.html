@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<title>Main</title>
+		<style type="text/css">
+			body
+			{
+				padding:0;
+				margin: 0;
+				font-family: 'Poppins', sans-serif;
+				background-color: white;
+				font-size: 15px;
+			}
+			frame
+			{
+				frameborder:0;
+				margin: 0;
+			}
+			frameset
+			{
+				frame-border:none;
+				margin: 0;
+			}
+		</style>
+	</head>
+	<frameset cols="60%,*" framespacing="0" border="0">
+
+	<frame name="catalogue" src="Catalogue.html">
+
+	<frameset rows="40%,*" framespacing="0" border="0">
+			<frame name="product_details" src="product_details.php">
+			<frame name="shopping_cart" src="shopping_cart.php">
+	</frameset>
+	</frameset>
+	<body>
+	</body>
+</html>
