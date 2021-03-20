@@ -1,4 +1,4 @@
-# 31748_POI_Online-Grocer
+# online-grocer
 Online Grocery Shop
 
 An Online Grocery Shop with catalogue, shopping cart and check-out functionality. Grocery item data is queried from University SQL database.
