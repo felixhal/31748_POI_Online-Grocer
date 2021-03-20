@@ -77,7 +77,7 @@
 	<body>
 	<?php
 	//Connects to mysql database
-	$connection = mysqli_connect("rerun", "potiro", "pcXZb(kL", "poti");
+	//$connection = <Database details>
 	//Checks if the connection is valid
 	if(!$connection)
     {
