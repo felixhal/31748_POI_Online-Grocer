@@ -48,7 +48,7 @@
 			$emailTo = $_REQUEST["email"];
 			$subject = "Order Confirmation";
 			$content = "Your Order has been received! along with the payment has been received"; 
-			$headers = "From: felix240600@gmail.com";
+			$headers = "From: john@gmail.com";
 			
 			//if the email function is successfully sent
 			if(mail($emailTo, $subject, $content, $headers))
