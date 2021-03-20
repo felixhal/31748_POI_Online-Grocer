@@ -19,10 +19,10 @@ User can:
 - MySQL
 - Ampps (Dev Environment)
 
-##How to Run:
+## How to Run:
 Currently the databse is only accessible through the faculty servers.
 Alternatively you can see it through this linkk: http://www-student.it.uts.edu.au/~felix/Ass1/Index.html
 
-##//TODO:
+## //TODO:
 - Optimize for various screen sizes
 - Refactor Spagetti Code
